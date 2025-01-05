@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Daniel Lopes! 👋
 
-<!--
-**Danielopes7/Danielopes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space! 🚀
 
-Here are some ideas to get you started:
+I'm a developer passionate about **PHP** and a big enthusiast of **Laravel**. Currently, I'm diving into new possibilities with the **Filament** for my new projects to build amazing and dynamic applications. Sometimes i'm seeking random projects to colaborate, open source is life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning
+
+- **Go**: Exploring its capabilities to build high-performance and scalable applications.
+- **Laravel / PHP**: always learning.
+
+
