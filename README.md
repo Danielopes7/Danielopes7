@@ -2,7 +2,7 @@
 
 Welcome to my GitHub space! 🚀
 
-I'm a developer passionate about **PHP** and a big enthusiast of **Laravel**. Currently, I'm diving into new possibilities with the **Filament** for my new projects to build amazing and dynamic applications. Sometimes i'm seeking random projects to colaborate, open source is life.
+I'm a developer passionate about [**PHP**](https://github.com/topics/php) and a big enthusiast of [**Laravel**](https://github.com/laravel/laravel). Currently, I'm diving into new possibilities with [**Filament**](https://github.com/filamentphp/filament) for my new projects to build amazing and dynamic applications. Sometimes, I'm seeking random projects to collaborate on—open source is life. ❤️
 
 ---
 
