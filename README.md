@@ -11,4 +11,8 @@ I'm a developer passionate about [**PHP**](https://github.com/topics/php) and a 
 - **Go**: Exploring its capabilities to build high-performance and scalable applications.
 - **Laravel / PHP**: always learning.
 
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/danielopesamorim)
+- [danielopesdev@gmail.com](mailto:danielopesdev@gmail.com)
 
