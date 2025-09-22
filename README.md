@@ -10,6 +10,7 @@ I'm a developer passionate about [**PHP**](https://github.com/topics/php) and a 
 
 - **Go**: Exploring its capabilities to build high-performance and scalable applications.
 - **Laravel / PHP**: always learning.
+- **Java/ Spring**: Developing new projects.
 
 ## 📫 Connect with Me
 
